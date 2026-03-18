@@ -2,6 +2,40 @@
 
 ---
 
+## [2026-03-19 00:27 AEDT] TOPIC 3: Decentralized Storage — ok
+
+- Phase: 2 (Deep Crawl)
+- Notes written: 7 atomic notes
+- Sources crawled:
+  - docs.ipfs.tech/concepts/comparisons/ (official IPFS comparison table)
+  - dev.to IPFS vs Arweave vs Filecoin comparison article
+  - thetechtrends.tech 9 decentralized storage solutions overview
+  - nftbirdies.com Arweave/Filecoin/Sia NFT storage deep-dive
+  - solanacompass.com Shadow Drive V2 explainer (Solfate podcast)
+  - irys.xyz homepage + Medium Bundlr 101 explainer
+  - messari.io State of Filecoin Q3 2024 / Q3 2025 (via search snippets)
+  - depinscan.io Filecoin Q1/Q2 2025 reports
+  - ainvest.com Filecoin enterprise adoption stats
+  - academy.swissborg.com Arweave deep-dive
+  - blog.upay.best Arweave/SPoRA explainer
+  - rootdata.com Irys project timeline and funding
+  - coinmarketcap.com Irys/IRYS token + DePIN stats
+  - socialcapitalmarkets.net DePIN statistics 2025
+  - bingx.com top decentralised storage projects 2026
+  - Web searches: DePIN market growth, Filecoin enterprise, Arweave Solana, Irys funding, Storj features, Shadow Drive 2024 status
+- Folder: storage/
+- Key findings:
+  - IPFS is the universal transport layer but needs incentive — Filecoin or pinning services mandatory for persistence
+  - Arweave dominates NFT metadata and Solana validator archiving; one-time fee model is DX winner but static-only
+  - Filecoin pivoting hard to enterprise (2,491 datasets, $99M inflows 2025); FVM adds programmability
+  - Irys (ex-Bundlr) evolution is most interesting: cross-chain payments + programmable data chain; $23.5M raised; testnet live Aug 2025
+  - Storj is most dev-friendly: S3-compatible, erasure coding, privacy-first; Valdi acquisition targets AI storage
+  - Shadow Drive V2 long-delayed, community concern; use with caution
+  - DePIN storage $5.2B → $19B+ in ~18 months; AI data demand is new growth vector
+  - Pattern for Logos: S3-compatible API + client-side encryption + cross-chain payments + flexible durations = winning stack
+
+---
+
 ## [2026-03-18 18:27 AEDT] TOPIC 2: Solana Indexing Ecosystem — ok
 
 - Phase: 2 (Deep Crawl)
