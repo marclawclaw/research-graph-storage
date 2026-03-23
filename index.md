@@ -1,8 +1,8 @@
 # Research: Blockchain Indexing & Decentralized Storage
 
-**Status:** Phase 1 complete — deep crawl in progress  
+**Status:** ✅ All topics complete — Phase 2 deep crawl done  
 **Repo:** https://github.com/marclawclaw/research-graph-storage  
-**Last updated:** 2026-03-18
+**Last updated:** 2026-03-23
 
 ---
 
@@ -30,10 +30,10 @@
 
 | Folder | Status | Description |
 |--------|--------|-------------|
-| `indexing/the-graph/` | ⏳ Pending cron | The Graph protocol, subgraphs, substreams, GRT economics, competitors |
-| `indexing/solana/` | ⏳ Pending cron | Helius, Triton/Yellowstone, DAS API, Geyser, The Graph on Solana |
-| `storage/` | ⏳ Pending cron | IPFS, Filecoin, Arweave, Shadow Drive, Storj, DePIN trends |
-| `logos-ideas-19/` | ⏳ Pending cron | Supabase-on-Logos feasibility, prior art (Ceramic, Polybase, Tableland) |
+| `indexing/the-graph/` | ✅ Complete | The Graph protocol, subgraphs, substreams, GRT economics, competitors |
+| `indexing/solana/` | ✅ Complete | Helius, Triton/Yellowstone, DAS API, Geyser, The Graph on Solana |
+| `storage/` | ✅ Complete | IPFS, Filecoin, Arweave, Shadow Drive, Storj, DePIN trends |
+| `logos-ideas-19/` | ✅ Complete | Supabase-on-Logos feasibility, prior art (Ceramic, Polybase, Tableland) |
 
 ---
 
